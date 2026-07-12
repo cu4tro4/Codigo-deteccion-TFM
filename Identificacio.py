@@ -1,6 +1,6 @@
 
 """
-pruebaIdentificacionV7_10.py
+Identificacio.py
 
 Segmenta las señales de aceleración X/Y e identifica comportamientos
 anómalos mediante comparación con la base de datos de patrones normales.
