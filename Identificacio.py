@@ -6384,9 +6384,6 @@ def crear_segmento_actual_identificacion(
 # ============================================================
 # LECTURA DE LA BASE DE DATOS Y COMPARACIONES ACTUALES
 # ============================================================
-# La base de datos actual no contiene métricas filtradas ni frecuencia dominante.
-# Por tanto, la identificación NO debe leer columnas como rms_filtrada_min,
-# pico_pico_filtrada_min, freq_dom_filtrada_min, etc.
 #
 # Características utilizadas:
 # - desplazamiento: forma/DTW y duració solo para clasificar el grupo;
