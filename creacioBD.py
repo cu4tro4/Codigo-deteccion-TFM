@@ -1,6 +1,6 @@
 
 """
-pruebaBDV7_4.py
+creacioBDpy
 
 Crea des de zero la base de dades de patrons normals.
 
