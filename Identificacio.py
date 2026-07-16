@@ -6394,7 +6394,7 @@ def crear_segmento_actual_identificacion(
 # - senyal_completa: solo energia per bandes.
 
 BANDAS_FRECUENCIA_BD = [
-    (0, 30),
+    #(0, 30), 
     (30, 80),
     (80, 120),
     (120, 180),
