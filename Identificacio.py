@@ -331,7 +331,7 @@ DECIMALES_MATRIZ_DISTANCIAS = 2
 ##################################################
 
 # Base de dades generada con el programa de entrenamiento.
-NOMBRE_BD_PATRONES_NORMALES = "patrones_normales_dtw_V7.sqlite"
+NOMBRE_BD_PATRONES_NORMALES = "patrones_normales_dtw.sqlite"
 
 
 # ------------------------------------------------------------
