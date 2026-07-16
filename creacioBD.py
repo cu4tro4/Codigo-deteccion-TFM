@@ -366,7 +366,7 @@ DECIMALES_MATRIZ_DISTANCIAS = 2
 GUARDAR_BD_PATRONES_NORMALES = True
 MOSTRAR_BD_EN_VENTANA = True
 
-NOMBRE_BD_PATRONES_NORMALES = "patrones_normales_dtw_V7.sqlite"
+NOMBRE_BD_PATRONES_NORMALES = "patrones_normales_dtw.sqlite"
 
 # Si se pone a True, borra todos los patrones guardados antes de insertar
 BORRAR_BD_PATRONES_ANTES_DE_GUARDAR = True
