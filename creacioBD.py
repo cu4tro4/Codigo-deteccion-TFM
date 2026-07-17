@@ -415,14 +415,14 @@ def obtener_ruta_base(num_experimento):
             RUTA_DATOS
             / "pruebas_lab"
             / "pruebasExperimentalesDocumentadas"
-            / f"Experiment{num_experimento}"
+            / f"Experimento{num_experimento}"
         )
 
     elif 114 <= num_experimento <= 119 or 122 < num_experimento:
         return (
             RUTA_DATOS
             / "pruebas_planta"
-            / f"Experiment{num_experimento}"
+            / f"Experimento{num_experimento}"
         )
 
     else:
@@ -2731,6 +2731,7 @@ COLUMNAS_OBSOLETAS_VISOR_BD = {
     "freq_dom_filtrada_min",
     "freq_dom_filtrada_max",
     "offset_abs_filtrada_max",
+    "energia_banda_0_30_original_max",
 }
 
 
